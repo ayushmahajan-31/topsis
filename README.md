@@ -1,5 +1,4 @@
 # topsis
-# topsis102217164Ayush
 
 This is a basic implementation of the TOPSIS method for decision analysis, written in Python. The package provides a simple way to calculate the TOPSIS score and rank alternatives based on their performance with respect to multiple criteria.
 
